@@ -28,3 +28,4 @@ apt install ffmpeg -y
 
 
 export HF_HUB_ENABLE_HF_TRANSFER=1
+export HF_HOME="/workspace"
