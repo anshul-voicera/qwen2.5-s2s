@@ -7,6 +7,9 @@ In this folder:
 
 ## Setup
 
+<img width="712" height="526" alt="image" src="https://github.com/user-attachments/assets/a6efcb28-43a0-4ad0-b906-8efa59fcb73d" />
+
+
 ### 1. Install required packages
 
 > [TIP] If running locally, create a venv with `uv venv` and consider swapping the device to `mps` instead of `cuda` if using Mac.
